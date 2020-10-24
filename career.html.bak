@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nicole Scherzinger</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300&family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
+    <script src="Jquery/scrolldeck.js/js/jquery-1.8.2.min.js"></script>
+    <script src="Jquery/scrolldeck.js/js/jquery.scrollTo-1.4.3.1.min.js"></script>
+    <script type="text/javascript" src="Jquery/scrolldeck.js/decks/parallax/scripts/jquery.parallax-1.1.js"></script>
+    <script src="Jquery/scrolldeck.js/js/jquery.easing.1.3.js"></script>
+    <script src="Jquery/scrolldeck.js/js/jquery.scrollorama.js"></script>
+    <script src="Jquery/scrolldeck.js/js/jquery.scrolldeck.js"></script>
+    <link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script type="text/javascript" src="engine1/jquery.js"></script>
+    
+</head>
+
+<body>
+      <!--Header section-->
+    <header id="header">
+        <div class="container">
+            <div class="logo-nav">
+              <div class="logo">
+                <a href="index.html"><img src="images/nicole-logo.svg" alt="Nicole"></a>  
+            </div><!--end .logo-->
+        <nav id="nav">
+                <div class="navbar">
+                    
+                    <ul id="menu-list">
+                    <li><a href="index.html"><b>Home</b></a></li>
+                    <li><a href="career.html"><b>Career</b></a></li>
+                    <li><a href="gallery.html"><b>Gallery</b></a></li>
+                    </ul>
+                    
+                    <a href="#" id="resp-menu"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                </div><!--end .navbar-->
+            </nav>
+            </div><!-- end .logo-nav -->  
+            
+		<video id="video" autoplay muted loop poster="#">
+			<source src="file:video/nicole.mp4" type="video/mp4">
+		</video>
+            <h1>Nicole Scherzinger</h1>
+        
+     </div><!-- end .container -->     
+  </header> 
+    
+   <section id="section">
+       <div class="container">
+           <h2>Career</h2>
+           <div class="first-article">
+               <div class="slider-container1">
+                   <div class="slider-images">
+                       <ul>
+                           <li><img src="images/edencrush1.jpg" alt="Cloudy Lagoon" title="Eden's Crush" id="wows0"/></li>
+                           <li><img src="images/edencrush2.jpg" alt="Cloudy Lagoon" title="Eden's Crush" id="wows0"/></li>
+                           <li><img src="images/edencrush3.jpg" alt="Cloudy Lagoon" title="Eden's Crush" id="wows0"/></li>
+                       </ul>
+                   </div><!--end .slider-images-->
+               </div><!--end .slider-container1-->
+               
+               <div class="text-section">
+                   <h3>1999–2002: Beginnings and Eden's Crush</h3>
+                   <p>In 1999, Scherzinger was hired by Days of the New band leader Travis Meeks to contribute vocals on their self-titled second studio album and later dropped out of college to tour through the US in support of the album. Meeks claims that after touring, the two grew apart creatively and that despite being an "amazing entertainer", she "just didn't seem to understand music very well … she's just not much of a musician, not [does she] understand music.</p>
+                   <p>Two years later, after her mother's suggestion, Scherzinger quit the band in order to audition on the WB's television show Popstars. With the aim to chronicle the group's formation until the recording of their debut album, Warner Bros. imprint London-Sire Records signed the group to a recording contract before the band was named and had finalized its membership, due to the hours of network television exposure the group would receive. Initially hesitant at the idea of joining a group, she then opted otherwise as she saw it as an opportunity to travel to Los Angeles. For her audition she sang Whitney Houston's version of Dolly Parton's song "I Will Always Love You" and alongside Ana Maria Lombo, Maile Misajon, Ivette Sosa, and Rosanna Tavarez, established the girl group Eden's Crush. Their debut single, "Get Over Yourself", was released in March 2001 and debuted at number eight on the Billboard Hot 100 and became the first female act to debut at number one on the Hot 100 Singles Sales chart. Their debut studio album, Popstars (2001), debuted at number six on the Billboard 200 chart. They went on to tour with 'N Sync and Jessica Simpson, but, by the end of the year, their label went bankrupt and the group disbanded. During this time, she auditioned for fourth singer of The Black Eyed Peas, but Fergie was chosen. In December 2002, Scherzinger worked with Yoshiki of Japanese heavy metal band X Japan on his Violet UK project.</p>
+               </div>
+           </div>
+           
+           <div class="second-article">
+                <div class="image-section">
+                   <img src="images/pussycat-dolls2.jpg" alt="Pussycat Dolls">
+               </div>
+               
+               <div class="text-section">
+                   <h3>2003–2009. 2020-: The Pussycat Dolls</h3>
+                   <p>In August 2003, opting for a solo recording contract, Scherzinger travelled to Arista Records office in New York with a demo CD, under her Hawaiian family name, Nicole Kea, of her own written material. Her performance was interrupted by a citywide blackout, and she was forced to leave. She also did a brief detour into acting which includes a cameo in the independent comedy Love Don't Cost a Thing. Meanwhile, Robin Antin, the creator of the burlesque troupe, the Pussycat Dolls, struck a joint venture with Interscope Records and along with record producers Jimmy Iovine and Ron Fair, launched an open audition for a separate recording group. After will.i.am recommended Scherzinger to Iovine, and in hopes to obtain a solo deal, she successfully auditioned in December 2003 along with Melody Thornton joining Carmit Bachar, Ashley Roberts, Jessica Sutta and Kimberly Wyatt. As the lead singer, Scherzinger assumed the majority of the vocals and is the only member of the group to have songwriting credits on their debut album, PCD which was released in September 2005. The album was preceded by "Don't Cha" which became their international breakthrough, peaking at number two on the Billboard Hot 100. The album spawned other number-one hits, "Stickwitu" and "Buttons", the latter of which was nominated for Best Pop Performance by a Duo or Group with Vocals at the 49th Annual Grammy Awards.</p>
+                   <p>In February 2006, Scherzinger signed a global publishing agreement with Universal Music Publishing Group, which would cover her future songwriting. Her work as lead singer furthered Scherzinger's popularity as she continued to work on her own music. Scherzinger's first solo recording was a feature on Avant's "Lie About Us" that was released in July 2006 and later collaborated with Diddy on "Come to Me" which became Scherzinger's first solo top-ten hit on the US Billboard Hot 100. In March 2007, Scherzinger announced that her debut studio album would be titled Her Name is Nicole and was initially scheduled for a release in late summer. Four singles were released from the project—"Whatever U Like" featuring T.I., "Baby Love" featuring will.i.am, "Supervillain", and "Puakenikeni"—however, all failed to make any significant impact on the Billboard charts, although "Baby Love" was a moderate success in international territories. After a number of push backs, Scherzinger decided not to release any further singles from the album and at her request, Her Name Is Nicole was eventually shelved and shifted back her focus on the Doll's second album.</p>
+               </div><!--end .text-section-->
+           </div><!--end .second-article-->
+    </div><!--end .container-->
+</section>
+    
+    
+    
+    
+     <footer class="footer">
+        <div class="container">
+             <div class="section">
+                <img src="images/nicole-logo.svg" alt="logo">
+			    <p class="copy">Copyright &copy; Gilespi 2020</p>
+             </div>
+
+             <div class="section">
+                <p>Privacy policy</p>
+                <p>Terms and Conditions</p>
+                <p>Terms of use</p>
+            </div>
+
+            <div class="section">
+                <div class="socials">
+                <p>Follow us on</p>
+                <a href="#" class="fa fa-facebook fa-2x"></a>
+                <a href="#" class="fa fa-twitter fa-2x"></a>
+                <a href="#" class="fa fa-google fa-2x"></a>
+                <a href="#" class="fa fa-linkedin fa-2x"></a>
+        
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+   <script type="text/javascript" src="images/demo/wowslider.js"></script>
+<script type="text/javascript" src="images/demo/noir-squares/engine/script.js"></script>
+    
+    </body>
+</html>
